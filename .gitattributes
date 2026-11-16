@@ -1,0 +1,10 @@
+* text=auto eol=lf
+# Computational fingerprints refer to exact executed bytes, including line endings.
+src/*.py -text
+experiments/camera_ready_final.py -text
+experiments/lv_cap20_standardized.py -text
+experiments/camera_ready_diagnostics.py -text
+*.npz binary
+*.zip binary
+*.pdf binary
+*.png binary

@@ -1,0 +1,179 @@
+{
+  "version": 2,
+  "study": "exploratory controlled follow-up; same fixed dataset",
+  "data_sha256": "c426967faac3005b1145385d5f8da5bfa85078084f7c5931b30a9bf9fcb11758",
+  "windows": {
+    "A_0-31": [
+      0,
+      10,
+      15,
+      23,
+      25,
+      31
+    ],
+    "B_0-15": [
+      0,
+      10,
+      15
+    ],
+    "C_0-50": [
+      0,
+      10,
+      15,
+      23,
+      25,
+      31,
+      35,
+      50
+    ],
+    "D_63-100": [
+      63,
+      65,
+      75,
+      83,
+      90,
+      100
+    ],
+    "E_23-54": [
+      23,
+      25,
+      31,
+      35,
+      50,
+      54
+    ]
+  },
+  "gap": 19,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "budgets": {
+    "reduced": {
+      "ga": [
+        40,
+        40
+      ],
+      "gwo": [
+        20,
+        40
+      ]
+    },
+    "published": {
+      "ga": [
+        100,
+        1000
+      ],
+      "gwo": [
+        20,
+        1000
+      ]
+    }
+  },
+  "scaling": [
+    "unit",
+    "mean"
+  ],
+  "lv_cap": 10,
+  "fixed_lvs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "cv": "15 matched shuffled GroupKFold assignments, random_state=master seed; search fitness 3 folds/5 LV; final LV and all VIP/iPLS selection 5 folds",
+  "vip_grid": [
+    60,
+    80,
+    90,
+    100,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    200,
+    220,
+    250,
+    275,
+    300,
+    350,
+    400,
+    450,
+    500,
+    550,
+    600,
+    650,
+    710
+  ],
+  "ipls_intervals": 20,
+  "region": [
+    1000,
+    1800
+  ],
+  "region_search_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "timing_repeats": 3,
+  "timing_seed": 0,
+  "random_controls": "15 master IDs; SeedSequence([20261116,seed,kind]) with kind 0=windows,1=columns160; matched grouped CV seed",
+  "variance_filters": [
+    "full",
+    "top639",
+    "top533",
+    "top355",
+    "top160",
+    "bottom160"
+  ],
+  "bootstrap": {
+    "replicates": 10000,
+    "family": "GA/GWO vs PLSR at each scaling and two interactions",
+    "size": 6
+  },
+  "python": "3.11.5",
+  "numpy": "2.2.6",
+  "scipy": "1.16.1",
+  "sklearn": "1.7.2",
+  "threads_per_worker": 1
+}

@@ -1,0 +1,132 @@
+{
+  "timing_unit_plsr": {
+    "key": "timing_unit_plsr",
+    "mode": "unit",
+    "method": "plsr",
+    "seconds": [
+      0.10913140000775456,
+      0.10520599997835234,
+      0.16608809999888763
+    ],
+    "median": 0.10913140000775456,
+    "repeats": 3,
+    "lv": 10
+  },
+  "timing_unit_vip": {
+    "key": "timing_unit_vip",
+    "mode": "unit",
+    "method": "vip",
+    "seconds": [
+      9.450874599977396,
+      8.814213199948426,
+      8.764284899982158
+    ],
+    "median": 8.814213199948426,
+    "repeats": 3,
+    "lv": 9
+  },
+  "timing_unit_ipls": {
+    "key": "timing_unit_ipls",
+    "mode": "unit",
+    "method": "ipls",
+    "seconds": [
+      1.2096050000400282,
+      1.2177407999988645,
+      1.0446748999529518
+    ],
+    "median": 1.2096050000400282,
+    "repeats": 3,
+    "lv": 10
+  },
+  "timing_unit_ga": {
+    "key": "timing_unit_ga",
+    "mode": "unit",
+    "method": "ga",
+    "seconds": [
+      507.5025324000162,
+      458.01651049999055,
+      434.5750930000213
+    ],
+    "median": 458.01651049999055,
+    "repeats": 3,
+    "lv": 7
+  },
+  "timing_unit_gwo": {
+    "key": "timing_unit_gwo",
+    "mode": "unit",
+    "method": "gwo",
+    "seconds": [
+      77.44154999998864,
+      74.403462999966,
+      78.10509550001007
+    ],
+    "median": 77.44154999998864,
+    "repeats": 3,
+    "lv": 5
+  },
+  "timing_mean_plsr": {
+    "key": "timing_mean_plsr",
+    "mode": "mean",
+    "method": "plsr",
+    "seconds": [
+      0.12075729999924079,
+      0.11328749998938292,
+      0.10042739997152239
+    ],
+    "median": 0.11328749998938292,
+    "repeats": 3,
+    "lv": 6
+  },
+  "timing_mean_vip": {
+    "key": "timing_mean_vip",
+    "mode": "mean",
+    "method": "vip",
+    "seconds": [
+      9.071452800009865,
+      8.84255810000468,
+      9.446099599997979
+    ],
+    "median": 9.071452800009865,
+    "repeats": 3,
+    "lv": 6
+  },
+  "timing_mean_ipls": {
+    "key": "timing_mean_ipls",
+    "mode": "mean",
+    "method": "ipls",
+    "seconds": [
+      1.6968833999708295,
+      1.6502118000062183,
+      1.6565984999760985
+    ],
+    "median": 1.6565984999760985,
+    "repeats": 3,
+    "lv": 10
+  },
+  "timing_mean_ga": {
+    "key": "timing_mean_ga",
+    "mode": "mean",
+    "method": "ga",
+    "seconds": [
+      377.3351169999805,
+      392.20646859996486,
+      396.55872510001063
+    ],
+    "median": 392.20646859996486,
+    "repeats": 3,
+    "lv": 6
+  },
+  "timing_mean_gwo": {
+    "key": "timing_mean_gwo",
+    "mode": "mean",
+    "method": "gwo",
+    "seconds": [
+      70.87702319998061,
+      71.19941609998932,
+      79.70373160002055
+    ],
+    "median": 71.19941609998932,
+    "repeats": 3,
+    "lv": 5
+  }
+}

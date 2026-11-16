@@ -1,0 +1,91 @@
+analysis,window,scaling,method,budget,repetitions,expected,complete,ids
+controls,A_0-31,mean,bottom160,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,mean,random_columns160,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,mean,random_windows,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,mean,top160,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,mean,top355,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,mean,top533,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,mean,top639,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,unit,bottom160,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,unit,random_columns160,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,unit,random_windows,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,unit,top160,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,unit,top355,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,unit,top533,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+controls,A_0-31,unit,top639,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+fixed_refit,A_0-31,mean,ga,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+fixed_refit,A_0-31,mean,gwo,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+fixed_refit,A_0-31,mean,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+fixed_refit,A_0-31,unit,ga,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+fixed_refit,A_0-31,unit,gwo,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+fixed_refit,A_0-31,unit,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,mean,ga,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,mean,gwo,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,mean,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,mean,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,mean,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,unit,ga,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,unit,gwo,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,unit,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,unit,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+full_range,full,unit,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+lv_cap_sensitivity,A_0-31,mean,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+lv_cap_sensitivity,A_0-31,unit,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+narrow_search,A_0-31,mean,ga,published,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+narrow_search,A_0-31,mean,ga,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+narrow_search,A_0-31,mean,gwo,published,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+narrow_search,A_0-31,mean,gwo,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+narrow_search,A_0-31,unit,ga,published,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+narrow_search,A_0-31,unit,ga,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+narrow_search,A_0-31,unit,gwo,published,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+narrow_search,A_0-31,unit,gwo,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,mean,ga,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,mean,gwo,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,mean,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,mean,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,mean,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,unit,ga,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,unit,gwo,reduced,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,unit,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,unit,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+region,A_0-31,unit,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+timing,A_0-31,mean,ga,published,3,3,True,0 1 2
+timing,A_0-31,mean,gwo,published,3,3,True,0 1 2
+timing,A_0-31,mean,ipls,none,3,3,True,0 1 2
+timing,A_0-31,mean,plsr,none,3,3,True,0 1 2
+timing,A_0-31,mean,vip,none,3,3,True,0 1 2
+timing,A_0-31,unit,ga,published,3,3,True,0 1 2
+timing,A_0-31,unit,gwo,published,3,3,True,0 1 2
+timing,A_0-31,unit,ipls,none,3,3,True,0 1 2
+timing,A_0-31,unit,plsr,none,3,3,True,0 1 2
+timing,A_0-31,unit,vip,none,3,3,True,0 1 2
+windows,A_0-31,mean,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,A_0-31,mean,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,A_0-31,mean,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,A_0-31,unit,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,A_0-31,unit,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,A_0-31,unit,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,B_0-15,mean,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,B_0-15,mean,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,B_0-15,mean,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,B_0-15,unit,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,B_0-15,unit,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,B_0-15,unit,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,C_0-50,mean,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,C_0-50,mean,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,C_0-50,mean,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,C_0-50,unit,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,C_0-50,unit,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,C_0-50,unit,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,D_63-100,mean,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,D_63-100,mean,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,D_63-100,mean,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,D_63-100,unit,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,D_63-100,unit,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,D_63-100,unit,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,E_23-54,mean,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,E_23-54,mean,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,E_23-54,mean,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,E_23-54,unit,ipls,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,E_23-54,unit,plsr,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+windows,E_23-54,unit,vip,none,15,15,True,0 1 2 3 4 5 6 7 8 9 10 11 12 13 14

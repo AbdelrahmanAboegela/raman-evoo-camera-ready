@@ -1,0 +1,21 @@
+{
+  "cpu": "Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz",
+  "os": "Windows-10-10.0.26200-SP0",
+  "recorded": "2026-11-16T13:49:28+0200",
+  "source_revision": "495d9f496bf7b5c58d10d2727059509c80da4a07",
+  "source_sha256": {
+    "src\\data_io.py": "4d20968018b91a699b20ff1737b24c666c7f58f7ee47d86bfdfea76dc9729702",
+    "src\\ga_mw.py": "6e6b5468756e4d03fa06dd703e51e2715144c9ba4906873777899d6976a3a1f3",
+    "src\\groups.py": "5186793a1bee1e7b00d6ff1ee90a7a55bcf38b91355808941a3d009935767ef9",
+    "src\\gwo_mw.py": "23d6929e8636da73160df17c9ab5daacf74d39a52c92cb9a80eac0558071f092",
+    "src\\paths.py": "aab5f66ebc700c03aa7ce24ba458eb1340045fe7b41c731a598368b40c9ce47c",
+    "src\\pls.py": "ac65d7f50de8098a60a9ce777334ad4ffb30536ed2dc2fa50666c39e07319862",
+    "src\\plsr_baseline.py": "6ea60d6759c17e238c7223b7fbd40c26cc9f9cb4bfef33655842f9cacf156d1a",
+    "src\\preprocess.py": "6dd496431508cc70cb2937b1781c30592b3455542578f808520f349542d792eb",
+    "src\\regimes.py": "c6eb1cfa021d7f7ee835ddb4c1c45d5f79a62a02a42284f3c230787e6b7ac7bb",
+    "src\\selectors_extra.py": "5015efef245e885197a5bcc1bb4d9460ee401205d4e3a4b71c933019e67e0cf1",
+    "src\\vip_cv_select.py": "71a1fbe987ce42ea1f0c93995812f8e3ac8d592fc06e0d81f76dd0628323c0f8",
+    "src\\vip_selection.py": "8cf23d33f5a43d87af9dfa61f1f2b287a834b6e5b369e41ae9e36b86342b5dfd",
+    "experiments\\camera_ready_final.py": "161d09a56a41292679f7ebc82398bb2c2c989c811ba98f7ce10fa5a86e2924fe"
+  }
+}

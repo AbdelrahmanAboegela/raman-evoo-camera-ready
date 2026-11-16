@@ -1,0 +1,9 @@
+{
+  "completed": 1210,
+  "expected": 1210,
+  "missing": 0,
+  "prediction_vectors_checked": 8760,
+  "fold_assignments_checked": 6270,
+  "coverage_cells": 90,
+  "all_complete": true
+}
